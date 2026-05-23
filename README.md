@@ -75,17 +75,6 @@
 
 ---
 
-## 💰 定价方案
-
-| 方案 | 价格 | 说明 |
-|------|------|------|
-| 🆓 免费试用 | **¥0** | 7 天全功能免费试用 |
-| 🏮 永久授权 | **¥49.9** | 春节限时特惠，一次购买永久使用 |
-
-> [🔗 立即购买永久授权](https://v1.uzhika.com/details/BC8A8672)
-
----
-
 ## 🖥️ 关于软件
 
 ### 技术栈
@@ -148,5 +137,5 @@
   <br>
   <sub>用科技守护家族历史，让每一代人的故事都被铭记</sub>
   <br><br>
-  <a href="https://www.gongjurenzhangwei.com/zupu/">🌐 官方网站</a> &nbsp;|&nbsp; <a href="https://github.com/gongjurenzhangwei/family-tree-ai-app/releases">📥 下载软件</a> &nbsp;|&nbsp; <a href="https://v1.uzhika.com/details/BC8A8672">💳 购买授权</a>
+  <a href="https://www.gongjurenzhangwei.com/zupu/">🌐 官方网站</a> &nbsp;|&nbsp; <a href="https://github.com/gongjurenzhangwei/family-tree-ai-app/releases">📥 下载软件</a>
 </div>
