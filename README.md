@@ -4,7 +4,6 @@
 > 融合 AI 技术的现代家谱/族谱管理桌面软件
 
 [![GitHub release](https://img.shields.io/github/v/release/gongjurenzhangwei/family-tree-ai-app?style=flat&label=最新版本)](https://github.com/gongjurenzhangwei/family-tree-ai-app/releases)
-[![GitHub license](https://img.shields.io/github/license/gongjurenzhangwei/family-tree-ai-app)](https://github.com/gongjurenzhangwei/family-tree-ai-app)
 [![Windows](https://img.shields.io/badge/platform-Windows-0078D6?logo=windows)](https://github.com/gongjurenzhangwei/family-tree-ai-app/releases)
 
 ---
@@ -123,12 +122,6 @@
 
 - 提交 [Issue](https://github.com/gongjurenzhangwei/family-tree-ai-app/issues) 反馈问题或建议
 - 访问 [官网](https://www.gongjurenzhangwei.com/zupu/) 了解更多信息
-
----
-
-## 📄 开源协议
-
-本项目基于 **MIT** 协议开源。
 
 ---
 
