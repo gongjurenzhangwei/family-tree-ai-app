@@ -1,10 +1,22 @@
 # 📜 族谱管理软件 — AI 智能家谱/族谱管理工具
 
+🌐 **官方网站**: [www.gongjurenzhangwei.com/zupu/](https://www.gongjurenzhangwei.com/zupu/)
+
 > **传承家族记忆 · 连接血脉亲情**  
 > 融合 AI 技术的现代家谱/族谱管理桌面软件
 
 [![GitHub release](https://img.shields.io/github/v/release/gongjurenzhangwei/family-tree-ai-app?style=flat&label=最新版本)](https://github.com/gongjurenzhangwei/family-tree-ai-app/releases)
 [![Windows](https://img.shields.io/badge/platform-Windows-0078D6?logo=windows)](https://github.com/gongjurenzhangwei/family-tree-ai-app/releases)
+
+## 🖼️ 软件截图
+
+![家族世系图谱](images/screenshot-family-tree.jpg) | ![AI 八字测算](images/screenshot-bazi.jpg)
+:---: | :---:
+**可视化家族树** | **AI 八字命理测算**
+
+![遗传病风险分析](images/screenshot-genetic.jpg) | ![AI 智能起名](images/screenshot-naming.jpg)
+:---: | :---:
+**AI 遗传病风险分析** | **AI 智能起名**
 
 ---
 
