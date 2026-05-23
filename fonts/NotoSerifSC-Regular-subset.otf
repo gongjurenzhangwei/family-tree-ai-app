@@ -1,0 +1,23 @@
+PLACEHOLDER_NOTO_SERIF_SC_SUBSET_OTF
+====================================
+
+This file is a PLACEHOLDER and is NOT a valid OpenType font.
+
+The real file must be a subset of Noto Serif SC (or Adobe Source Han Serif SC)
+containing the following Unicode ranges, and should be roughly 1-2 MB:
+
+  U+0020-U+007E   Basic Latin
+  U+00A0-U+00FF   Latin-1 Supplement
+  U+3000-U+303F   CJK Symbols and Punctuation
+  U+4E00-U+9FFF   CJK Unified Ideographs
+
+See public/fonts/README.md for:
+  - Where to download the upstream font (OFL-1.1 licensed)
+  - The exact `pyftsubset` command to produce this file
+  - How Vite/Electron packaging picks it up
+
+The Book PDF exporter (src/utils/bookPdf/bookPdfFont.ts, task 9.3) treats a
+missing or invalid font as a fallback condition and renders with a generic
+serif, emitting a single console.warn. Shipping this placeholder to a
+production build will trigger that fallback; replace this file with a real
+subset before releasing.
