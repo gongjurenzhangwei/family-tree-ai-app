@@ -1,6 +1,6 @@
 # 📜 族谱管理软件 — AI 智能家谱/族谱管理工具
 
-🌐 **官方网站**: [www.gongjurenzhangwei.com/zupu/](https://www.gongjurenzhangwei.com/zupu/)
+🌐 **官方网站**: [https://familytree.design/zh/](https://familytree.design/zh/)
 
 > **传承家族记忆 · 连接血脉亲情**  
 > 融合 AI 技术的现代家谱/族谱管理桌面软件
