@@ -7,6 +7,8 @@
 
 [![GitHub release](https://img.shields.io/github/v/release/gongjurenzhangwei/family-tree-ai-app?style=flat&label=最新版本)](https://github.com/gongjurenzhangwei/family-tree-ai-app/releases)
 [![Windows](https://img.shields.io/badge/platform-Windows-0078D6?logo=windows)](https://github.com/gongjurenzhangwei/family-tree-ai-app/releases)
+[![macOS](https://img.shields.io/badge/platform-macOS-000?logo=apple)](https://github.com/gongjurenzhangwei/family-tree-ai-app/releases)
+[![Linux](https://img.shields.io/badge/platform-Linux-FCC624?logo=linux&logoColor=black)](https://github.com/gongjurenzhangwei/family-tree-ai-app/releases)
 
 ## 🖼️ 软件截图
 
@@ -22,13 +24,16 @@
 
 ## 📥 下载安装
 
-### Windows 安装包
+### 全平台安装包
 
-| 版本 | 下载 |
-|------|------|
-| **v2.1.2** (最新) | [⬇️ 下载安装包](https://github.com/gongjurenzhangwei/family-tree-ai-app/releases/download/v2.1.2/V2.1.2.exe) |
+| 版本 | 平台 | 下载 |
+|------|------|------|
+| **v3.0.15** (最新) | 🪟 Windows (x64) | [⬇️ 下载安装包](https://github.com/gongjurenzhangwei/family-tree-ai-app/releases/download/v3.0.15/family-tree-design-3.0.15-win-x64.exe) |
+| **v3.0.15** | 🍎 macOS (Apple Silicon) | [⬇️ 下载 dmg](https://github.com/gongjurenzhangwei/family-tree-ai-app/releases/download/v3.0.15/family-tree-design-3.0.15-mac-arm64.dmg) |
+| **v3.0.15** | 🍎 macOS (Intel) | [⬇️ 下载 dmg](https://github.com/gongjurenzhangwei/family-tree-ai-app/releases/download/v3.0.15/family-tree-design-3.0.15-mac-x64.dmg) |
+| **v3.0.15** | 🐧 Linux (x86_64) | [⬇️ 下载 AppImage](https://github.com/gongjurenzhangwei/family-tree-ai-app/releases/download/v3.0.15/family-tree-design-3.0.15-linux-x86_64.AppImage) |
 
-> 支持 Windows 10 / Windows 11 系统。下载后双击运行安装即可。
+> 支持 Windows 10 / Windows 11、macOS（按芯片选择 Apple Silicon 或 Intel 版本）与主流 Linux 发行版。下载后按系统常规方式安装即可。完整性校验文件见 Release 页面 Assets 中的 `SHA256SUMS.txt`。
 
 ---
 
@@ -109,7 +114,13 @@
 ---
 
 ## 📝 版本历史
-
+### v3.0.15 (2026-10)
+- 💍 **婚配序位**：配偶关系支持序位标记（原配 / 继配 / 三配…），亲属关系面板与族谱视图均按序位展示
+- 👶 **子女出生排行**：排行标签统一维护，兄弟姐妹顺序一键上移 / 下移，族谱视图按排行展示
+- 🖼️ **头像裁剪与查看**：上传头像支持自由裁剪，成员卡片 / 详情页可点击查看大图
+- 📸 **媒体批量上传**：照片 / 音频 / 视频 / 文档支持一次多选、批量上传
+- 🌙 修复农历闰月显示重复「闰」字的问题；🌐 修复世系表列设置 / 导出界面在部分语言下显示原始键名的问题
+- 🍎🐧 自 v3.0 起新增 macOS / Linux 安装包、家族故事、A4 PDF 导出与全新品牌视觉
 ### v2.1.2 (2026-05)
 - 🆕 AI 遗传病风险分析
 - 🆕 AI 血型推断
